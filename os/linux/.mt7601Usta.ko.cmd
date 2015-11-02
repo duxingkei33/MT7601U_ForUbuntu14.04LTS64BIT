@@ -1,0 +1,1 @@
+cmd_/home/duxingkei/app-ubuntu/MT7601U/os/linux/mt7601Usta.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/duxingkei/app-ubuntu/MT7601U/os/linux/mt7601Usta.ko /home/duxingkei/app-ubuntu/MT7601U/os/linux/mt7601Usta.o /home/duxingkei/app-ubuntu/MT7601U/os/linux/mt7601Usta.mod.o
